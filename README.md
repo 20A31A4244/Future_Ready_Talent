@@ -10,7 +10,7 @@
 ## **`TEAM MEMBER DETAILS`**
 
 **TEAM MEMBER NAME** - [`KARNASULA SAI SRI PRAVALLIKA`] [`GITHUB URL`](https://github.com/pravallika1309) </br>
-**TEAM MEMBER NAME** - [`KANCHARLA LAKSHMI MADHAVI`] [`GITHUB URL`](https://github.com/madhulucky35) </br>
+**TEAM MEMBER NAME** - [`KANCHARLA LAKSHMI MADHAVI`] [`GITHUB URL`](https://github.com/20a31a4212) </br>
 **TEAM MEMBER NAME** - [`PATTABHI RAMA LINGESWAR PEDDIREDDY`] [`GITHUB URL`](https://github.com/pattabhi03) </br>
 
 ## **`Azure technologies`** used For this Project
