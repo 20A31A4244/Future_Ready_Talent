@@ -38,31 +38,29 @@
 
 ### `Home Page`
 
-![Home](https://user-images.githubusercontent.com/87414605/232978285-9a2c0153-6a96-4423-954a-f2c5078e0acf.png)
+![Home](readmeimgs/1.png)
 
 ### `MEDICAL RECORD PAGE`
 
-![medicalrecord](https://user-images.githubusercontent.com/87414605/232978438-7ee6fb2a-da55-4f18-9830-f4259dfb7869.png)
+![medicalrecord](readmeimgs/2.png)
 
 ### `PATIENTS REGISTRATION PAGE`
 
-![registration1](https://user-images.githubusercontent.com/87414605/232978715-285cb6ea-9cc5-4ea6-9c56-8567273cfe3b.png)
+![registration1](readmeimgs/3.png)
 
-![registration2 (2)](https://user-images.githubusercontent.com/87414605/232978751-0ea75c3c-bcf2-4878-9099-8a83209e6688.png)
+![registration2 (2)](readmeimgs/4.png)
 
 ### `PATIENTS PROFILE PAGE`
 
-![profile](https://user-images.githubusercontent.com/87414605/232978949-b50151d8-1469-4993-85a6-3dca22bcffba.png)
-
-![patientslist](https://user-images.githubusercontent.com/87414605/232978963-bc57cd08-9656-4883-8d8d-573d9aec51bb.png)
+![profile](readmeimgs/5.png)
 
 ### `CONTACT US PAGE`
 
-![contact us](https://user-images.githubusercontent.com/87414605/232979023-573f688c-87fd-44cd-b435-bedd6c84043f.png)
+![contact us](readmeimgs/6.png)
 
 ### `Healthbot PAGE`
 
-![healthbot](https://user-images.githubusercontent.com/87414605/232979076-f87897ca-aa4f-409e-844b-b77421e2c03d.png)
+![healthbot](readmeimgs/7.png)
 
 </br>
 
