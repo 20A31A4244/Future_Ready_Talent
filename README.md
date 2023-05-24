@@ -20,7 +20,7 @@
    </br>
 
 **Project Link** - [`https://lemon-coast-0b9c2b500.3.azurestaticapps.net`](https://lemon-coast-0b9c2b500.3.azurestaticapps.net) </br>
-**Project Demo Video Link** - [`https://youtu.be/BF0snO8-jN8`](https://youtu.be/BF0snO8-jN8)
+**Project Demo Video Link** - [`https://youtu.be/DGc6_ro3UbM`](https://youtu.be/DGc6_ro3UbM)
 
 </br></br>
 
